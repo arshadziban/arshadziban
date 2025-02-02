@@ -2,7 +2,7 @@
 
 ### 
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Shah Md Arshad Rahman Ziban and I'm a Data Analyst, Graphic Designer, UI/UX Designer, and AI Enthusiast, from Bangladesh.</p>
 
 ### 
 
@@ -10,31 +10,7 @@
 
 ### 
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-### 
-
-<h2 align="left">I code with</h2>
-
-### 
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning AI and Deep Learning<br>🎯 Goals: Mastering AI, Machine Learning, and Data Science<br>🎲 Fun fact: I love experimenting with new technologies and creating innovative solutions.</p>
 
 ### 
 
@@ -75,4 +51,19 @@
   <li>Natural Language Processing (NLP): NLTK, spaCy, TextBlob, Gensim, Hugging Face transformers</li>
   <li>Image Processing: Pillow, OpenCV, scikit-image, imageio, SimpleCV</li>
   <li>Statistics & Scientific Computing: SciPy, Statsmodels, SymPy</li>
+  <li>Data Analysis: Excel, Power BI</li>
+</ul>
+
+### 
+
+<h2 align="left">Connect with me</h2>
+
+### 
+
+<p align="left">You can find me on:</p>
+
+<ul>
+  <li><a href="https://www.linkedin.com/in/shah-md-arshad-rahman-ziban-484649263">LinkedIn</a></li>
+  <li><a href="https://www.kaggle.com/arshadrahmanziban">Kaggle</a></li>
+  <li><a href="https://www.behance.net/arshadziban">Behance</a></li>
 </ul>
