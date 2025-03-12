@@ -9,7 +9,7 @@
 <h2 align="left">About me</h2>
 
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning AI and Deep Learning<br>🎯 Goals: Mastering AI, Machine Learning, and Data Science<br>🎲 Fun fact: I love experimenting with new technologies and creating innovative solutions.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning AI and Deep Learning<br>🎯 Goals: Mastering AI, Machine Learning, and Data Science<br>🎲 Fun fact: I love experimenting with new technologies and creating innovative solutions.</p>
 
 
 <h2 align="left">Connect with me</h2>
