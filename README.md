@@ -1,25 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-### 
-
-<p align="left">My name is Shah Md Arshad Rahman Ziban and I'm a Data Analyst, Graphic Designer, UI/UX Designer, and AI Enthusiast, from Bangladesh.</p>
-
-### 
-
-<h2 align="left">About me</h2>
-
-
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning AI and Deep Learning<br>🎯 Goals: Mastering AI, Machine Learning, and Data Science<br>🎲 Fun fact: I love experimenting with new technologies and creating innovative solutions.</p>
-
-
-<h2 align="left">Connect with me</h2>
-
-### 
-
-<p align="left">You can find me on:</p>
-
-<ul>
-  <li><a href="https://www.linkedin.com/in/shah-md-arshad-rahman-ziban-484649263">LinkedIn</a></li>
-  <li><a href="https://www.kaggle.com/arshadrahmanziban">Kaggle</a></li>
-  <li><a href="https://www.behance.net/arshadziban">Behance</a></li>
-</ul>
+<h1 align="left">Hello There! 👋</h1>
+<p align="left">I'm Shah Md Arshad Rahman Ziban, a multidisciplinary tech enthusiast from Bangladesh specializing in Data Analysis, Graphic Design, UI/UX, and Artificial Intelligence.</p>
+<h2 align="left">My Journey</h2> <p align="left">🐞 Turning code into creative challenges since 2022<br>🌱 Currently diving deep into AI and Deep Learning<br>🚀 Aspiring to master Machine Learning and Data Science<br>💡 Passionate about tinkering with cutting-edge tech to build novel solutions</p>
+<h2 align="left">Let's Collaborate</h2> <p align="left">Connect with me through:</p> <ul> <li><a href="https://www.linkedin.com/in/shah-md-arshad-rahman-ziban-484649263">LinkedIn</a> - Professional network</li> <li><a href="https://www.kaggle.com/arshadrahmanziban">Kaggle</a> - Data science projects</li> <li><a href="https://www.behance.net/arshadziban">Behance</a> - Design portfolio</li> </ul>
