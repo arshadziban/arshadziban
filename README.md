@@ -1,7 +1,6 @@
 <h1 align="left">Hello There! 👋</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshadziban&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshadziban&hide_progress=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshadziban&show_icons=true&theme=radical)   
 
 <p align="left">I'm Shah Md Arshad Rahman Ziban, a multidisciplinary tech enthusiast from Bangladesh specializing in Data Analysis, Graphic Design, UI/UX, and Artificial Intelligence.</p>
 
