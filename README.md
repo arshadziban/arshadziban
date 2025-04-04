@@ -13,6 +13,3 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arshadziban)
 
-
-![Python](https://img.shields.io/badge/Python-Expert-blue)  
-![Open Source](https://img.shields.io/badge/Open_Source-Contributor-green)  
