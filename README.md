@@ -2,8 +2,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshadziban&layout=compact)
 
-<p align="left">I'm Shah Md Arshad Rahman Ziban, a multidisciplinary tech enthusiast from Bangladesh specializing in Data Analysis, Graphic Design, UI/UX, and Artificial Intelligence.</p>
-
 
 
 <h2 align="left">My Journey</h2> <p align="left">🐞 Turning code into creative challenges since 2022<br>🌱 Currently diving deep into AI and Deep Learning<br>🚀 Aspiring to master Machine Learning and Data Science<br>💡 Passionate about tinkering with cutting-edge tech to build novel solutions</p>
