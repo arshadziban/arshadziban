@@ -1,7 +1,7 @@
 <h1 style="text-align: left;">Greetings</h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadziban&layout=compact" alt="Top Languages">
 <h2 style="text-align: left;">Professional Journey</h2>
-<p style="text-align: left;">Transforming code into innovative solutions since 2022<br>Currently exploring advanced topics in Artificial Intelligence and Deep Learning<br>Aspiring to achieve expertise in Machine Learning and Data Science<br>Passionate about leveraging cutting-edge technologies to develop novel applications</p>
+<p style="text-align: left;">Engaged in the theoretical and practical development of innovative computational solutions since 2022<br>Presently investigating advanced theoretical foundations in Artificial Intelligence and Deep Learning<br>Aiming to attain profound expertise in the theoretical underpinnings and methodologies of Machine Learning and Data Science<br>Committed to applying cutting-edge theoretical frameworks in technology to engineer novel and impactful applications</p>
 <h2 style="text-align: left;">Professional Connections</h2>
 <p style="text-align: left;">Connect with me via:</p>
 <ul>
