@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋 I'm Arshad Rahman Ziban</h1>
 
-<h2 align="left">🚀 Professional Journey</h2>
+<h2 align="left">Professional Journey</h2>
 
 <p align="left">
 Passionate about Artificial Intelligence, Deep Learning, and advanced computational systems since 2022. 
@@ -16,7 +16,7 @@ Currently exploring:
 • Scalable AI applications  
 </p>
 
-<h2 align="left">🌐 Connect With Me</h2>
+<h2 align="left">Connect With Me</h2>
 
 <ul>
   <li><a href="https://www.linkedin.com/in/shah-md-arshad-rahman-ziban-484649263">LinkedIn</a> — Professional networking</li>
