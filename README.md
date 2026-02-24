@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋 I'm Arshad Rahman Ziban</h1>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadziban&layout=compact" alt="Top Languages" />
-
 <h2 align="left">🚀 Professional Journey</h2>
 
 <p align="left">
